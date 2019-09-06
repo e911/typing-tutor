@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/typing-tutor/static/css/main.5224a62e.chunk.css",
+    "main.js": "/typing-tutor/static/js/main.e5f3fa39.chunk.js",
+    "main.js.map": "/typing-tutor/static/js/main.e5f3fa39.chunk.js.map",
+    "runtime~main.js": "/typing-tutor/static/js/runtime~main.a1f57c74.js",
+    "runtime~main.js.map": "/typing-tutor/static/js/runtime~main.a1f57c74.js.map",
+    "static/css/2.d32869f0.chunk.css": "/typing-tutor/static/css/2.d32869f0.chunk.css",
+    "static/js/2.85bba0ab.chunk.js": "/typing-tutor/static/js/2.85bba0ab.chunk.js",
+    "static/js/2.85bba0ab.chunk.js.map": "/typing-tutor/static/js/2.85bba0ab.chunk.js.map",
+    "index.html": "/typing-tutor/index.html",
+    "precache-manifest.524d9bb51da51ec980bc140a36012d2b.js": "/typing-tutor/precache-manifest.524d9bb51da51ec980bc140a36012d2b.js",
+    "service-worker.js": "/typing-tutor/service-worker.js",
+    "static/css/2.d32869f0.chunk.css.map": "/typing-tutor/static/css/2.d32869f0.chunk.css.map",
+    "static/css/main.5224a62e.chunk.css.map": "/typing-tutor/static/css/main.5224a62e.chunk.css.map"
+  }
+}
