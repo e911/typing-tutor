@@ -2,6 +2,8 @@
 
 Typing tutor is a simple game to practice and enhance your typing skills.
 
+##### Try it [online here](https://e911.github.io/typing-tutor/)
+
 ## Installation
 
 Clone the project: 
